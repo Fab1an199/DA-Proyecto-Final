@@ -1,0 +1,3 @@
+El data set utilizado en el proyecto final esta en este enlace de google drive:
+https://drive.google.com/file/d/1iBwoe_8cL7jEGeVcJhjOspV-_ytFXNEm/view?usp=drive_link
+Esto lo hago ya que es un archivo mas grande del que GitHub permite subir.
